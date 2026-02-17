@@ -1,4 +1,4 @@
-# Relative Digital Identity Protocol
+# Relative Digital Identity Protocol (RDIP)
 
 Identity is relative.
 
@@ -9,36 +9,33 @@ In modern society, digital identities allow individuals to securely identify the
 For example, when you meet someone, you verify their name (identity) through other people.
 
 Institutions exist through individuals.
-Institutions provide services by placing individuals who have the authority to use their own data.
-So, if we consider governments and similar structures as individuals that shere truth with an structure, only other individuals can verify you and others.
+Institutions provide services by empowering individuals who have the authority to use their own data.
+So, if we consider governments and similar structures as collections of individuals that share truth within a structure, only other individuals can verify you and others.
 
 If there is no point of verification where someone can verify you, you could be just anyone.
-This is the big picture, we dont have truth on "who is who?".
+This is the big picture: we don't have a shared truth on "who is who."
 
-RDIP uses the relativity of identities and moves authentication logic away froms applications.
-In RDIP, you will use a RDI Provider to identify yourself to others.
-This means you won't be diffrent persons on different platforms.
-This may seem bad from a privacy standpoint, but it's much better than others.
-You will use who you trust, this solves the privacy point.
+RDIP uses the relativity of identities and moves authentication logic away from applications.
+In RDIP, you will use an RDI Provider to identify yourself to others.
+This means you won't be different persons on different platforms.
+This may seem bad from a privacy standpoint, but it's much better than the alternatives.
+You will use those whom you trust; this solves the privacy concern.
 
-This is like using mail adresses but we move the verfication away.
-This is fixes the "trust about identitiy" problem.
-You reliey on the RDI provider, because thats the only job they had.
-You can still verify user on your side if you want.
+This is like using email addresses, but we move the verification away.
+This fixes the "trust about identity" problem.
+You rely on the RDI provider because that is the only job they have.
+You can still verify the user on your side if you want.
 
-The problem we solve is "identitiy".
-Who you are? Or who you become?
-That's the "thing", human culture puts forward the individuals.
+The problem we solve is "identity."
+Who are you? Or who do you become?
+That's the "thing"—human culture puts forward the individual.
 
-Who you are metters in human sens, RDIP fixes this.
+Who you are matters in a human sense; RDIP fixes this.
 
-There is no identity for computer, its a pice of metal and some silicon with a cuple fancy elements beside.
-We need to deal with this in our ways.
+There is no identity for a computer; it is a piece of metal and some silicon with a couple of fancy elements beside it.
+We need to deal with this in our own way.
 The world never revolves around a single individual or institution. Humanity operates on the concept of distributed centrality.
-Because of that, identitiy is reletive.
-We develope RDIP for humanity.
+Because of that, identity is relative.
+We develop RDIP for humanity.
 
-We hope you undestand the vison.
-
-You can continu to table of contents:
-...
+We hope you understand the vision.
